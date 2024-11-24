@@ -7,7 +7,7 @@
 |[AWS docs](https://docs.aws.amazon.com/)|_*ANY*_|-|
 |[A Cloud Guru](https://learn.acloud.guru/course/certified-solutions-architect-associate/dashboard)|Habijabi|-|
 |[A Cloud Guru Slides](https://github.com/Glareone/AWS-Certified-Solution-Architect?tab=readme-ov-file#interesting-materials)|Oreilly|-|
-|[Notion](https://www.notion.so/Architecting-Fundamentals-b443a820de494421adf3f3227833d55e)|Oreilly|-|
+|[Notion](https://www.notion.so/AWS-SAA-24888b38f79e46288f80e54734373386)|Oreilly|-|
 |[Reference Architecture](https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=content-type%23pattern&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all&awsf.business-category=*all)|Oreilly|-|
 |[AWS SAA Bookmarks](chrome://bookmarks/?id=39)|Oreilly|-|
 |[AWS white-paper and guides](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23whitepaper&awsf.whitepapers-global-methodology=methodology%23well-arch-framework&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all)|_*ANY*_|Check it out for well architected framework at the end|
