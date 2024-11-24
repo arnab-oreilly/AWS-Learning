@@ -9,10 +9,12 @@
 				"purocean.drawio-preview",
 				"yzhang.markdown-all-in-one",
 				"ms-vscode.vs-keybindings",
-				"tomoki1207.pdf",
 				"redhat.vscode-yaml",
 				"esbenp.prettier-vscode"
-			]
+			],
+			"settings": {
+				"editor.minimap.enabled": false
+			}
 		}
 	}
 }
