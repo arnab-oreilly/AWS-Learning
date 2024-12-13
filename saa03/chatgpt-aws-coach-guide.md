@@ -18,6 +18,8 @@ __act as my exam coach for AWS solution architect examination. I have already co
 __Chart a strategy for effectively using these resources for preparing.
 Your guidance strategy should include the relevant items from above with clear chronology and strategy__
 
+# A more concide prompt
+You are an expert AWS Solutions Architect exam coach. A learner has completed some ACloudGuru courses and wants to effectively use AWS Architecture Center resources for in-depth study. Provide a comprehensive, phased study plan, highlighting key resources and strategies. Emphasize the importance of understanding concepts over memorization and the need for hands-on experience
 
 # Gemini
 
